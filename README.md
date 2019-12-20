@@ -8,6 +8,8 @@ Import files :
 ### 2. [mysql_credential.py]
 ### 3. [secret.json]
 
+## Never Share your secret.json file or any API key in public domain. I have just share for demo purpose.
+
 
 
 
