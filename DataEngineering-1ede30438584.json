@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dataengineering-262510",
+  "private_key_id": "1ede304385842b15c80f865072fa5069ac3bd41c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC542nM77k9V4eo\nzdj+UhIo0oTI3Z3O5EopYA4KeP9xdJOexGCUlMR4CxWSWYjGOXIafF3YzNL7VCLf\nR7SYEWVgw4Uhz/Fu0t+1zhVtu6nh8ASXFPaT2rEBYenXw1c5LnMgXKsoIxGdQNSA\nzGvsAR2fwSzaZkr8mYlT/5gLulvmquvu7fBUNBpL1ncJX+iC0lc4bhJLccIAAGiM\nzjO6XR04cqTVEi+B9zB0/vrdpDx/LoCbxuAstw6w9LYyim3a2xxKESJgmlT/tGkP\n8qV27oI0QgN8+FcAMFmyl6H3H5/U1anao0M+bgJUbaHiH/IYRoPTU3cAJafJ/BXL\nJ3XsMajZAgMBAAECggEABdZYWjEk9gIrpmdgawwUuedyeARNklOk6Iu1pSqLivqI\nMDImfkP1r3dZpBDftKnVJXPGVqqH7ZCEz9Imn6fcMR+yrI8lG7/PepwQHDQKb6fj\n3QKxg48Yg9yZRUdDE+6beuauEUKYqQGCKtFAila2oW+lgu43aJtBrruWALhHboTd\n0o2unU2qHI4CTYdEE/1Rje/5GV1MHVvwD6pB23l4U+4sGHwVEm6eVoUUyU8BpewS\nGobbzC1gNXL0THLqOdehH687dzPxDyhnyHi5/Jp0fShKHB/3xJ35aVu329skcjEh\n5b4AIo4NORGvlyI0Eov2FOdY+rMoKY10cpWb0axGAQKBgQDhbs8gZfhLezz1qGHd\n1rimBwuqCowaV/oWFQc+YZvXz3Vbbt5qKJfT820wbNY7DqezR2BxhDQAKTCUPMwU\nnuYumPnLzN9wzDz6t2qRmVoeq8Fo9j9HKIUont2dSMETfA4aCCvs8+cQY9SK2mWF\ncHubyL7Fc899VJtcrFDCpsrOIQKBgQDTF/Dj9amYTbk+Q7B4Ovpm5g+ufkw4HnCg\nI2Y9hxzZQ1xRxrVxccq9o7muxukBE0RfioP/Uoj6xhEJ5uoNAwDAACkbj5MNnIU+\n97DSRQTz4Hm6kWk3E+gj+Xax43wduF2RdHAjOJdkfYvSgya+qUf3m3Hgz72NorRQ\noDMyvQ5TuQKBgGvC7IAwPmDWqG1F8IJ7AglblNfT8uUk6QdlRfEr97NSGGd8uBVH\nEkzfMHLVlBLnDoNEu3WIHNN23SH/bg7tZlsgBUjGxojFGOFAjFDNXacLs4jZLaZ2\nWDDywD1PafxGcPdAsL60WOAc2J0HiUAgZPYzH/6DPcxLhXjnZjOmR4wBAoGBAMdN\nL07LPphhqagz2IVricdlJyEkdWn2s3c+dOVaj85BXwSGjADT4wsxbbqqaottWXyr\nFv0VO+co4iVrM0edsjOU8zrmT3zmbpeI3BVqvMZVBhkz+RbbYK22dm51zVVyIEWY\nnddjMuzZ7A2Rbh9NTHlm9hm/icQT/hKxbiVVghVhAoGAb0PXccc7wzqAeC9DS4mA\nFphAbNfD3dkAb6BIQDv26kohFraPkI3TzXe1+pHZYJbMx3o28jHUEwHS1lUs7ey5\nUyEFDICziN7zb9PpyN7+y87G6NtScjrsBNS5zQr6LJZyBPDNXca8T573JB1aun5b\nnoKgZSn18oH5CqnsTntbih8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "medengine@dataengineering-262510.iam.gserviceaccount.com",
+  "client_id": "105458258870761283805",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/medengine%40dataengineering-262510.iam.gserviceaccount.com"
+}
